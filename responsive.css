@@ -1,0 +1,27 @@
+@media screen and (max-width: 1183px) {
+    nav {
+      flex-direction: column;
+    }
+    .banner {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 12px 0px;
+    }
+    nav ul {
+      align-items: center;
+      justify-content: center;
+    }
+    .search {
+      align-items: center;
+      justify-content: center;
+    }
+    .slider {
+      height: 18vh;
+    }
+  }
+  .card item {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
